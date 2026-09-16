@@ -1,5 +1,5 @@
 # NASA-SP8000-series-Archive
-114 NASA 8000 series papers. These are literal goldmines. Published mostly in the 60s and 70s, they outline the exact engineering rules used to build the Apollo and early Shuttle hardware (e.g., "Buckling of Thin-Walled Circular Cylinders")
+Complete NASA SP-8000 technical report archive with a Python/Google Colab downloader for NTRS and legacy NASA reports.
 
 ## License
 
@@ -13,12 +13,4 @@ third-party copyrighted material.
 
 This project is not affiliated with or endorsed by NASA.
 
-nasa
-aerospace
-ntrs
-spacecraft
-rocket-engineering
-technical-reports
-aeronautics
-python
-archive
+Topics: nasa, ntrs, sp-8000, aerospace, aeronautics, spacecraft, technical-reports, archive, python, google-colab
