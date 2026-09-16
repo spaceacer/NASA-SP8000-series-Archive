@@ -3,7 +3,7 @@
 Complete NASA SP-8000 technical report archive with a Python/Google Colab
 downloader for NTRS and legacy NASA reports.
 
-## 📦 Complete PDF Archive
+## Complete PDF Archive
 
 The complete collection of NASA SP-8000 reports is available as a
 **~850 MB ZIP file** under [Releases].
