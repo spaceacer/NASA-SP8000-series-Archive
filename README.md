@@ -27,13 +27,10 @@ and consistent naming of the reports.
 
 ## License
 
-The downloader source code in this repository is licensed under the MIT
-License.
+The source code in this repository is licensed under the MIT License.
 
-The NASA technical reports are not covered by this software license. They
-remain subject to the rights and usage terms associated with their original
-NASA/NTRS records. Many U.S. Government works are in the public domain in
-the United States, but individual documents may contain third-party
-copyrighted material.
+The NASA technical reports distributed through this project are not covered by the MIT License. Their copyright and reuse status is governed by the terms applicable to the original NASA/NTRS records.
 
-This project is not affiliated with or endorsed by NASA.
+Many works created by employees of the U.S. Government as part of their official duties are not subject to copyright protection in the United States. However, individual reports or portions of reports may contain third-party copyrighted material or other restrictions. Users are responsible for complying with any notices or restrictions contained in the original documents.
+
+NASA is acknowledged as the original source of the technical reports. This project is independent and is not affiliated with, sponsored by, or endorsed by NASA.
