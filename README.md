@@ -15,6 +15,16 @@ Files are automatically named in the format:
 
 `spXXXX_<document-ID>_<title>.pdf`
 
+## Acknowledgements
+
+Special thanks to **Richard Nakka** for maintaining the
+[NASA SP-8000 Series index](https://www.nakka-rocketry.net/sp8000.html).
+
+His index provided the starting point for locating the reports across
+NASA NTRS and archived legacy NASA Technical Reports Server pages.
+This project builds on that index by automating the retrieval, organization,
+and consistent naming of the reports.
+
 ## License
 
 The downloader source code in this repository is licensed under the MIT
