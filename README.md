@@ -12,3 +12,13 @@ domain in the United States, but individual documents may contain
 third-party copyrighted material.
 
 This project is not affiliated with or endorsed by NASA.
+
+nasa
+aerospace
+ntrs
+spacecraft
+rocket-engineering
+technical-reports
+aeronautics
+python
+archive
